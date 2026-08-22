@@ -1,13 +1,4 @@
 {
   "version": 1,
-  "keys": [
-    {
-      "id": "cliente-001",
-      "hash": "HASH_SHA256_DA_KEY",
-      "plan": "mensal",
-      "createdAt": "2026-08-21T12:00:00Z",
-      "revoked": false,
-      "note": "Cliente 001"
-    }
-  ]
+  "keys": [sv-teste-key123]
 }
