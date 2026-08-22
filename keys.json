@@ -2,9 +2,20 @@
   "version": 1,
   "keys": [
     {
+      "id": "key_K0labroxmx",
+      "hash": "7a653c296ffd1da1c6e8eeb51a405bc54b9d30c5a734b41066b9deb39338a5a9",
+      "plan": "mensal",
+      "client": "Cliente-001",
+      "createdAt": "2026-08-22T14:10:39.934Z",
+      "startsAt": "2026-08-22T14:10:00.000Z",
+      "expiresAt": "2026-09-21T14:10:00.000Z",
+      "revoked": false
+    },
+    {
       "id": "cliente-001",
       "hash": "255d5e879baa1798aa8fa04fb150a1b840bbb26959ef883bde9df4e9f9b18601",
       "plan": "mensal",
+      "client": "",
       "createdAt": "2026-08-21T12:00:00Z",
       "revoked": false,
       "note": "Cliente 001"
