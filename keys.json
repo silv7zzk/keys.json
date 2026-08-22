@@ -8,8 +8,9 @@
       "client": "Cliente",
       "createdAt": "2026-08-22T15:49:19.224Z",
       "startsAt": "2026-08-22T15:48:00.000Z",
-      "expiresAt": "2026-08-23T15:48:00.000Z",
-      "revoked": true
+      "expiresAt": "2026-08-22T18:03:43.678Z",
+      "revoked": true,
+      "finalizedAt": "2026-08-22T18:03:43.678Z"
     },
     {
       "id": "key_3IiDurgX8R",
