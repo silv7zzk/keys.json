@@ -2,6 +2,16 @@
   "version": 1,
   "keys": [
     {
+      "id": "key_ZORkmYpq_r",
+      "hash": "670298408447222321eaf218688844736e5984acd8820fc26f6a178058143ed3",
+      "plan": "diaria",
+      "client": "Cliente",
+      "createdAt": "2026-08-22T18:04:35.874Z",
+      "startsAt": "2026-08-22T18:02:00.000Z",
+      "expiresAt": "2026-08-23T18:02:00.000Z",
+      "revoked": false
+    },
+    {
       "id": "key_yKcKgwDnW7",
       "hash": "0f3cd071071b765cc662c8ba6d35c1b0b393af10ae48d65bd4e04649b99bb4e8",
       "plan": "diaria",
