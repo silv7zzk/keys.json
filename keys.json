@@ -2,6 +2,16 @@
   "version": 1,
   "keys": [
     {
+      "id": "key_u9ieCMTwpQ",
+      "hash": "96c33b3308fa593c5294a7802094d04fc7986ee4082eca9445d7acc6318154bf",
+      "plan": "mensal",
+      "client": "sv-android",
+      "createdAt": "2026-08-22T14:46:35.901Z",
+      "startsAt": "2026-08-22T14:42:00.000Z",
+      "expiresAt": "2026-09-21T14:42:00.000Z",
+      "revoked": false
+    },
+    {
       "id": "key_K0labroxmx",
       "hash": "7a653c296ffd1da1c6e8eeb51a405bc54b9d30c5a734b41066b9deb39338a5a9",
       "plan": "mensal",
