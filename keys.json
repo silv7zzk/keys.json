@@ -1,3 +1,11 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "hash": "2f24e1557f02040c03da04c9d36588f5f21115966e866e6a2d6c297489e7c210",
+      "tipo": "diaria",
+      "criada_em": "2026-08-30T21:02:59.750Z",
+      "expira_em": "2026-08-31T21:02:59.750Z",
+      "ativa": true
+    }
+  ]
 }
