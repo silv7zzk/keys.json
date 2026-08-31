@@ -13,6 +13,13 @@
       "criada_em": "2026-08-30T21:32:01.127Z",
       "expira_em": "2026-08-31T21:32:01.127Z",
       "ativa": false
+    },
+    {
+      "hash": "0d8fae16b39f590f043ddcc95198056352df3881afae9b5c333c9a82fe629d7d",
+      "tipo": "permanente",
+      "criada_em": "2026-08-31T00:35:24.991Z",
+      "expira_em": null,
+      "ativa": true
     }
   ]
 }
