@@ -20,6 +20,13 @@
       "criada_em": "2026-08-31T00:35:24.991Z",
       "expira_em": null,
       "ativa": true
+    },
+    {
+      "hash": "2d0721a749f70d0cc571cb2129e3533ac574230b55c4087da8ac153d8b211bd6",
+      "tipo": "diaria",
+      "criada_em": "2026-08-31T13:57:32.675Z",
+      "expira_em": "2026-09-01T13:57:32.675Z",
+      "ativa": true
     }
   ]
 }
